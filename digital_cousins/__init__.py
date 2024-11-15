@@ -8,5 +8,5 @@ import digital_cousins.envs
 ROOT_DIR = os.path.dirname(__file__)
 REPO_DIR = '/'.join(ROOT_DIR.split('/')[:-1])
 CHECKPOINT_DIR = f"{REPO_DIR}/checkpoints"
-ASSET_DIR = f"{REPO_DIR}/assets"
+ASSET_DIR = f"{REPO_DIR}/acdc_asset/assets"  #有时间删掉多余文件夹
 

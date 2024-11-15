@@ -13,8 +13,8 @@ import omnigibson as og
 
 TEST_DIR = os.path.dirname(__file__)
 SAVE_DIR = f"{TEST_DIR}/test_acdc_output"
-TEST_IMG_PATH = f"{TEST_DIR}/test_img.png"
-CAPTION = "Fridge. Cabinet."
+TEST_IMG_PATH = f"{TEST_DIR}/living_room.png"
+CAPTION = "Table. Cup. Picture."
 
 def test_dinov2(args):
     from digital_cousins.models.dino_v2 import DinoV2Encoder
@@ -49,7 +49,7 @@ def test_clip(args):
     encoder.get_features(img)
 
     # Test text too
-    phrases = ["bottom cabinet", "table"]
+    phrases = ["table", "sofa","picture","cup"]
     encoder.get_text_features(phrases)
 
 
@@ -99,7 +99,7 @@ def test_fm(args):
 
     # Test nearest neighbor matching
     image_source, image = load_image(TEST_IMG_PATH)
-    boxes, logits, phrases = fm.gsam.predict_boxes(image, "fridge.")
+    boxes, logits, phrases = fm.gsam.predict_boxes(image, "bottom_cabinet.")
     all_masks = fm.gsam.predict_segmentation(image_source, boxes, multimask_output=True)
     mask = all_masks[0][0]
     Image.fromarray(mask).save(obj_mask_fpath)
@@ -107,10 +107,10 @@ def test_fm(args):
         torch.tensor(compute_bbox_from_mask(obj_mask_fpath))).unsqueeze(dim=0)
 
     candidate_imgs_fdirs = [f"{digital_cousins.ASSET_DIR}/objects/{og_category}/snapshot"
-                            for og_category in ["fridge", "wine_fridge", "bottom_cabinet", "display_fridge"]]
+                            for og_category in ["pencil", "pencil", "pear", "bottom_cabinet"]]
 
     model_results = fm.find_nearest_neighbor_candidates(
-        input_category="fridge",
+        input_category="bottom_cabinet",
         input_img_fpath=TEST_IMG_PATH,
         candidate_imgs_fdirs=candidate_imgs_fdirs,
         candidate_imgs=None,
@@ -122,7 +122,7 @@ def test_fm(args):
         logits=logits[0].unsqueeze(dim=0),
         phrases=[phrases[0]],
         obj_masks=mask.reshape(1, 1, *mask.shape),
-        save_prefix="fridge",
+        save_prefix="bottom_cabinet",
         remove_background=False,
     )
 
