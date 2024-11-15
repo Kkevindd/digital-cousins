@@ -179,7 +179,7 @@ In order to use this repo, we require both the asset image and BEHAVIOR datasets
 To validate that the entire installation process completed successfully, please run our set of unit tests:
 
 ```bash
-python tests/test_models.py --gpt_api_key <KEY> --gpt_version 4o
+python test_models.py --gpt_api_key <KEY> --gpt_version 4o
 ```
 - `--gpt_api_key` specifies the GPT API key to use for GPT queries. Must be compatible with `--gpt_version`
 - `--gpt_version` (optional) specifies the GPT version to use. Default is 4o
