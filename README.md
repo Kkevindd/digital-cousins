@@ -95,7 +95,7 @@ conda activate acdc
    
         ```bash
         git clone https://github.com/IDEA-Research/GroundingDINO.git && cd GroundingDINO
-        export CUDA_HOME=/PATH/TO/cuda-12.3   # Make sure to set this!
+        export CUDA_HOME=/PATH/TO/cuda-12.3   # Make sure to set this! 先下载对应的cudatookit，再使用which nvcc定位路径，修改上述的CUDA_HOME路径
         pip install --no-build-isolation -e . && cd ..
         ```
 
@@ -146,6 +146,12 @@ In order to use this repo, we require both the asset image and BEHAVIOR datasets
 
 1. Asset image and BEHAVIOR datasets
     ```bash
+    mkdir -p acdc_asset && cd acdc_asset
+    wget https://storage.googleapis.com/gibson_scenes/acdc_assets.zip && cd ..
+    mkdir -p og_dataset && cd og_dataset
+    wget https://storage.googleapis.com/gibson_scenes/og_assets_1_1_0.tar.gz && cd ..
+
+    #下面这两句是原readme写的，旨在下载到/tmp中，不要使用这两句话
     python -m omnigibson.utils.asset_utils --download_assets --download_og_dataset --accept_license
     python -m digital_cousins.utils.dataset_utils --download_acdc_assets
     ```
