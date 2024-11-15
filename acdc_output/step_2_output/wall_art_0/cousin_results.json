@@ -1,0 +1,19 @@
+{
+    "articulated": false,
+    "cousins": [
+        {
+            "category": "painting",
+            "model": "gardkz",
+            "ori_offset": null,
+            "z_angle": 1.759291886010284,
+            "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/painting/model/gardkz/gardkz_78.png"
+        },
+        {
+            "category": "painting",
+            "model": "wduwwo",
+            "ori_offset": null,
+            "z_angle": 2.827433388230814,
+            "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/painting/model/wduwwo/wduwwo_95.png"
+        }
+    ]
+}

@@ -1,0 +1,378 @@
+{
+    "metadata": {
+        "n_cousins": 2,
+        "n_objects": 18
+    },
+    "objects": {
+        "rug_0": {
+            "articulated": false,
+            "cousins": [
+                {
+                    "category": "carpet",
+                    "model": "vlccww",
+                    "ori_offset": null,
+                    "z_angle": 2.1362830044410597,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/carpet/model/vlccww/vlccww_84.png"
+                },
+                {
+                    "category": "carpet",
+                    "model": "iepqvq",
+                    "ori_offset": null,
+                    "z_angle": -0.3141592653589793,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/carpet/model/iepqvq/iepqvq_45.png"
+                }
+            ]
+        },
+        "armchair_0": {
+            "articulated": false,
+            "cousins": [
+                {
+                    "category": "armchair",
+                    "model": "nibzys",
+                    "ori_offset": null,
+                    "z_angle": -2.261946710584651,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/armchair/model/nibzys/nibzys_14.png"
+                },
+                {
+                    "category": "armchair",
+                    "model": "thfelc",
+                    "ori_offset": null,
+                    "z_angle": -2.261946710584651,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/armchair/model/thfelc/thfelc_14.png"
+                }
+            ]
+        },
+        "armchair_1": {
+            "articulated": false,
+            "cousins": [
+                {
+                    "category": "armchair",
+                    "model": "nibzys",
+                    "ori_offset": null,
+                    "z_angle": -2.5132741228718345,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/armchair/model/nibzys/nibzys_10.png"
+                },
+                {
+                    "category": "armchair",
+                    "model": "rabzuf",
+                    "ori_offset": null,
+                    "z_angle": -0.7539822368615505,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/armchair/model/rabzuf/rabzuf_38.png"
+                }
+            ]
+        },
+        "sofa_0": {
+            "articulated": false,
+            "cousins": [
+                {
+                    "category": "sofa",
+                    "model": "rqipbs",
+                    "ori_offset": [
+                        3.14,
+                        0.0,
+                        0.0
+                    ],
+                    "z_angle": -0.9424777960769379,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/sofa/model/rqipbs/rqipbs_35.png"
+                },
+                {
+                    "category": "sofa",
+                    "model": "llsxsg",
+                    "ori_offset": null,
+                    "z_angle": -1.1309733552923253,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/sofa/model/llsxsg/llsxsg_32.png"
+                }
+            ]
+        },
+        "cushion_0": {
+            "articulated": false,
+            "cousins": [
+                {
+                    "category": "pillow",
+                    "model": "tzjozh",
+                    "ori_offset": null,
+                    "z_angle": -2.0734511513692633,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/pillow/model/tzjozh/tzjozh_17.png"
+                },
+                {
+                    "category": "pillow",
+                    "model": "nbtsys",
+                    "ori_offset": null,
+                    "z_angle": 1.3194689145077136,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/pillow/model/nbtsys/nbtsys_71.png"
+                }
+            ]
+        },
+        "side_table_0": {
+            "articulated": false,
+            "cousins": [
+                {
+                    "category": "coffee_table",
+                    "model": "wwgaym",
+                    "ori_offset": null,
+                    "z_angle": 1.507964473723101,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/coffee_table/model/wwgaym/wwgaym_74.png"
+                },
+                {
+                    "category": "coffee_table",
+                    "model": "qplrhv",
+                    "ori_offset": null,
+                    "z_angle": 2.450442269800039,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/coffee_table/model/qplrhv/qplrhv_89.png"
+                }
+            ]
+        },
+        "cushion_1": {
+            "articulated": false,
+            "cousins": [
+                {
+                    "category": "pillow",
+                    "model": "tzjozh",
+                    "ori_offset": null,
+                    "z_angle": -1.0681415022205294,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/pillow/model/tzjozh/tzjozh_33.png"
+                },
+                {
+                    "category": "pillow",
+                    "model": "hrmwzv",
+                    "ori_offset": null,
+                    "z_angle": -1.1938052083641215,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/pillow/model/hrmwzv/hrmwzv_31.png"
+                }
+            ]
+        },
+        "cushion_2": {
+            "articulated": false,
+            "cousins": [
+                {
+                    "category": "pillow",
+                    "model": "hrmwzv",
+                    "ori_offset": null,
+                    "z_angle": 0.8796459430051424,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/pillow/model/hrmwzv/hrmwzv_64.png"
+                },
+                {
+                    "category": "pillow",
+                    "model": "fxeiee",
+                    "ori_offset": [
+                        0.64,
+                        0.0,
+                        0.0
+                    ],
+                    "z_angle": -0.3141592653589793,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/pillow/model/fxeiee/fxeiee_45.png"
+                }
+            ]
+        },
+        "cushion_3": {
+            "articulated": false,
+            "cousins": [
+                {
+                    "category": "pillow",
+                    "model": "hrmwzv",
+                    "ori_offset": null,
+                    "z_angle": -1.382300767579509,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/pillow/model/hrmwzv/hrmwzv_28.png"
+                },
+                {
+                    "category": "pillow",
+                    "model": "tzjozh",
+                    "ori_offset": null,
+                    "z_angle": -1.0681415022205294,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/pillow/model/tzjozh/tzjozh_33.png"
+                }
+            ]
+        },
+        "cushion_4": {
+            "articulated": false,
+            "cousins": [
+                {
+                    "category": "pillow",
+                    "model": "hrmwzv",
+                    "ori_offset": null,
+                    "z_angle": -1.2566370614359175,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/pillow/model/hrmwzv/hrmwzv_30.png"
+                },
+                {
+                    "category": "pillow",
+                    "model": "dvxydk",
+                    "ori_offset": null,
+                    "z_angle": -1.319468914507713,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/pillow/model/dvxydk/dvxydk_29.png"
+                }
+            ]
+        },
+        "wall_art_0": {
+            "articulated": false,
+            "cousins": [
+                {
+                    "category": "painting",
+                    "model": "gardkz",
+                    "ori_offset": null,
+                    "z_angle": 1.759291886010284,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/painting/model/gardkz/gardkz_78.png"
+                },
+                {
+                    "category": "painting",
+                    "model": "wduwwo",
+                    "ori_offset": null,
+                    "z_angle": 2.827433388230814,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/painting/model/wduwwo/wduwwo_95.png"
+                }
+            ]
+        },
+        "wall_art_1": {
+            "articulated": false,
+            "cousins": [
+                {
+                    "category": "painting",
+                    "model": "ifdzgs",
+                    "ori_offset": null,
+                    "z_angle": 1.8849555921538759,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/painting/model/ifdzgs/ifdzgs_80.png"
+                },
+                {
+                    "category": "painting",
+                    "model": "wduwwo",
+                    "ori_offset": null,
+                    "z_angle": 1.8849555921538759,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/painting/model/wduwwo/wduwwo_80.png"
+                }
+            ]
+        },
+        "book_0": {
+            "articulated": false,
+            "cousins": [
+                {
+                    "category": "paperback_book",
+                    "model": "jsbpva",
+                    "ori_offset": [
+                        1.7241176759538144e-07,
+                        -1.9893909808388344e-07,
+                        -8.102499587613908e-08
+                    ],
+                    "z_angle": -0.18849564024038346,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/paperback_book/model/jsbpva/jsbpva_47.png"
+                },
+                {
+                    "category": "paperback_book",
+                    "model": "lfbzdu",
+                    "ori_offset": [
+                        -0.26179937427553557,
+                        0.017453298354316082,
+                        0.06981319365229811
+                    ],
+                    "z_angle": 1.5149458143036032,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/paperback_book/model/lfbzdu/lfbzdu_73.png"
+                }
+            ]
+        },
+        "book_1": {
+            "articulated": false,
+            "cousins": [
+                {
+                    "category": "paperback_book",
+                    "model": "skqbff",
+                    "ori_offset": [
+                        -0.2583098612218395,
+                        0.021604324326382374,
+                        0.06988534572036498
+                    ],
+                    "z_angle": 0.8866994356537115,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/paperback_book/model/skqbff/skqbff_63.png"
+                },
+                {
+                    "category": "hardback",
+                    "model": "ucicpd",
+                    "ori_offset": null,
+                    "z_angle": -1.1309733552923253,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/hardback/model/ucicpd/ucicpd_32.png"
+                }
+            ]
+        },
+        "book_2": {
+            "articulated": false,
+            "cousins": [
+                {
+                    "category": "hardback",
+                    "model": "cvotie",
+                    "ori_offset": [
+                        3.14158723,
+                        1.43814111,
+                        0.000102535698
+                    ],
+                    "z_angle": 1.6337307155646918,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/hardback/model/cvotie/cvotie_76.png"
+                },
+                {
+                    "category": "paperback_book",
+                    "model": "uwaqwg",
+                    "ori_offset": [
+                        -3.0782133464300565,
+                        -0.039723352731684036,
+                        -3.0540918473020393
+                    ],
+                    "z_angle": -6.007188941676445,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/paperback_book/model/uwaqwg/uwaqwg_3.png"
+                }
+            ]
+        },
+        "plant_0": {
+            "articulated": false,
+            "cousins": [
+                {
+                    "category": "coffee_table",
+                    "model": "qplrhv",
+                    "ori_offset": null,
+                    "z_angle": -0.879645943005142,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/coffee_table/model/qplrhv/qplrhv_36.png"
+                },
+                {
+                    "category": "coffee_table",
+                    "model": "mtchfd",
+                    "ori_offset": null,
+                    "z_angle": -2.8902652413026098,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/coffee_table/model/mtchfd/mtchfd_4.png"
+                }
+            ]
+        },
+        "side_table_1": {
+            "articulated": false,
+            "cousins": [
+                {
+                    "category": "coffee_table",
+                    "model": "wwgaym",
+                    "ori_offset": null,
+                    "z_angle": 1.507964473723101,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/coffee_table/model/wwgaym/wwgaym_74.png"
+                },
+                {
+                    "category": "coffee_table",
+                    "model": "semdkc",
+                    "ori_offset": null,
+                    "z_angle": 0.1256637061435919,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/coffee_table/model/semdkc/semdkc_52.png"
+                }
+            ]
+        },
+        "plant_1": {
+            "articulated": false,
+            "cousins": [
+                {
+                    "category": "garden_plant",
+                    "model": "dgqylq",
+                    "ori_offset": null,
+                    "z_angle": -2.5761059759436304,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/garden_plant/model/dgqylq/dgqylq_9.png"
+                },
+                {
+                    "category": "pot_plant",
+                    "model": "jaofyw",
+                    "ori_offset": null,
+                    "z_angle": -0.6283185307179586,
+                    "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/pot_plant/model/jaofyw/jaofyw_40.png"
+                }
+            ]
+        }
+    }
+}

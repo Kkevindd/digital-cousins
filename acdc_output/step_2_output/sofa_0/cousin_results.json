@@ -1,0 +1,23 @@
+{
+    "articulated": false,
+    "cousins": [
+        {
+            "category": "sofa",
+            "model": "rqipbs",
+            "ori_offset": [
+                3.14,
+                0.0,
+                0.0
+            ],
+            "z_angle": -0.9424777960769379,
+            "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/sofa/model/rqipbs/rqipbs_35.png"
+        },
+        {
+            "category": "sofa",
+            "model": "llsxsg",
+            "ori_offset": null,
+            "z_angle": -1.1309733552923253,
+            "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/sofa/model/llsxsg/llsxsg_32.png"
+        }
+    ]
+}

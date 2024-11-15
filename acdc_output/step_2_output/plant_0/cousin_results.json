@@ -1,0 +1,19 @@
+{
+    "articulated": false,
+    "cousins": [
+        {
+            "category": "coffee_table",
+            "model": "qplrhv",
+            "ori_offset": null,
+            "z_angle": -0.879645943005142,
+            "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/coffee_table/model/qplrhv/qplrhv_36.png"
+        },
+        {
+            "category": "coffee_table",
+            "model": "mtchfd",
+            "ori_offset": null,
+            "z_angle": -2.8902652413026098,
+            "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/coffee_table/model/mtchfd/mtchfd_4.png"
+        }
+    ]
+}

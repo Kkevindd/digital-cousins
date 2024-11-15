@@ -1,0 +1,27 @@
+{
+    "articulated": false,
+    "cousins": [
+        {
+            "category": "paperback_book",
+            "model": "jsbpva",
+            "ori_offset": [
+                1.7241176759538144e-07,
+                -1.9893909808388344e-07,
+                -8.102499587613908e-08
+            ],
+            "z_angle": -0.18849564024038346,
+            "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/paperback_book/model/jsbpva/jsbpva_47.png"
+        },
+        {
+            "category": "paperback_book",
+            "model": "lfbzdu",
+            "ori_offset": [
+                -0.26179937427553557,
+                0.017453298354316082,
+                0.06981319365229811
+            ],
+            "z_angle": 1.5149458143036032,
+            "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/paperback_book/model/lfbzdu/lfbzdu_73.png"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "articulated": false,
+    "cousins": [
+        {
+            "category": "garden_plant",
+            "model": "dgqylq",
+            "ori_offset": null,
+            "z_angle": -2.5761059759436304,
+            "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/garden_plant/model/dgqylq/dgqylq_9.png"
+        },
+        {
+            "category": "pot_plant",
+            "model": "jaofyw",
+            "ori_offset": null,
+            "z_angle": -0.6283185307179586,
+            "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/pot_plant/model/jaofyw/jaofyw_40.png"
+        }
+    ]
+}

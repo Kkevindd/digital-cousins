@@ -1,0 +1,19 @@
+{
+    "articulated": false,
+    "cousins": [
+        {
+            "category": "armchair",
+            "model": "nibzys",
+            "ori_offset": null,
+            "z_angle": -2.5132741228718345,
+            "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/armchair/model/nibzys/nibzys_10.png"
+        },
+        {
+            "category": "armchair",
+            "model": "rabzuf",
+            "ori_offset": null,
+            "z_angle": -0.7539822368615505,
+            "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/armchair/model/rabzuf/rabzuf_38.png"
+        }
+    ]
+}

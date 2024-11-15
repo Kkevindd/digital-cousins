@@ -1,0 +1,51 @@
+{
+    "K": [
+        [
+            1812.148681640625,
+            0.0,
+            800.0
+        ],
+        [
+            0.0,
+            1541.9547119140625,
+            646.0
+        ],
+        [
+            0.0,
+            0.0,
+            1.0
+        ]
+    ],
+    "detected_categories": "/mnt/data/zqh/test_3d/digital-cousins/acdc_output/step_1_output/step_1_detected_categories.json",
+    "floor_mask": "/mnt/data/zqh/test_3d/digital-cousins/acdc_output/step_1_output/segmented_objects/floor/floor_mask.png",
+    "wall_mask_planes": {
+        "/mnt/data/zqh/test_3d/digital-cousins/acdc_output/step_1_output/segmented_objects/wall/wall_mask.png": {
+            "normal": [
+                0.5413575986370877,
+                0.039448951965252194,
+                -0.8398664956924579
+            ],
+            "point": [
+                -1.1542633003287506,
+                -1.4262646323345152,
+                5.34423828125
+            ]
+        }
+    },
+    "z_direction": [
+        -0.013148769498198607,
+        -0.9983895048496586,
+        -0.0551861075519624
+    ],
+    "origin_pos": [
+        -1.0178296055546099,
+        0.9754355436333917,
+        2.90924072265625
+    ],
+    "input_rgb": "/mnt/data/zqh/test_3d/digital-cousins/living_room_resize.png",
+    "input_depth": "/mnt/data/zqh/test_3d/digital-cousins/acdc_output/step_1_output/step_1_depth.png",
+    "depth_limits": [
+        0.0,
+        20.0
+    ]
+}

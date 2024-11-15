@@ -1,0 +1,19 @@
+{
+    "articulated": false,
+    "cousins": [
+        {
+            "category": "pillow",
+            "model": "tzjozh",
+            "ori_offset": null,
+            "z_angle": -1.0681415022205294,
+            "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/pillow/model/tzjozh/tzjozh_33.png"
+        },
+        {
+            "category": "pillow",
+            "model": "hrmwzv",
+            "ori_offset": null,
+            "z_angle": -1.1938052083641215,
+            "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/pillow/model/hrmwzv/hrmwzv_31.png"
+        }
+    ]
+}

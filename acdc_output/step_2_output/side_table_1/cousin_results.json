@@ -1,0 +1,19 @@
+{
+    "articulated": false,
+    "cousins": [
+        {
+            "category": "coffee_table",
+            "model": "wwgaym",
+            "ori_offset": null,
+            "z_angle": 1.507964473723101,
+            "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/coffee_table/model/wwgaym/wwgaym_74.png"
+        },
+        {
+            "category": "coffee_table",
+            "model": "semdkc",
+            "ori_offset": null,
+            "z_angle": 0.1256637061435919,
+            "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/coffee_table/model/semdkc/semdkc_52.png"
+        }
+    ]
+}

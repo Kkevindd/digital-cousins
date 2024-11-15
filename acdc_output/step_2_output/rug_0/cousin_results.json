@@ -1,0 +1,19 @@
+{
+    "articulated": false,
+    "cousins": [
+        {
+            "category": "carpet",
+            "model": "vlccww",
+            "ori_offset": null,
+            "z_angle": 2.1362830044410597,
+            "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/carpet/model/vlccww/vlccww_84.png"
+        },
+        {
+            "category": "carpet",
+            "model": "iepqvq",
+            "ori_offset": null,
+            "z_angle": -0.3141592653589793,
+            "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/carpet/model/iepqvq/iepqvq_45.png"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "articulated": false,
+    "cousins": [
+        {
+            "category": "paperback_book",
+            "model": "skqbff",
+            "ori_offset": [
+                -0.2583098612218395,
+                0.021604324326382374,
+                0.06988534572036498
+            ],
+            "z_angle": 0.8866994356537115,
+            "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/paperback_book/model/skqbff/skqbff_63.png"
+        },
+        {
+            "category": "hardback",
+            "model": "ucicpd",
+            "ori_offset": null,
+            "z_angle": -1.1309733552923253,
+            "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/hardback/model/ucicpd/ucicpd_32.png"
+        }
+    ]
+}

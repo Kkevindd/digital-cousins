@@ -1,0 +1,19 @@
+{
+    "articulated": false,
+    "cousins": [
+        {
+            "category": "painting",
+            "model": "ifdzgs",
+            "ori_offset": null,
+            "z_angle": 1.8849555921538759,
+            "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/painting/model/ifdzgs/ifdzgs_80.png"
+        },
+        {
+            "category": "painting",
+            "model": "wduwwo",
+            "ori_offset": null,
+            "z_angle": 1.8849555921538759,
+            "snapshot": "/mnt/data/zqh/test_3d/digital-cousins/acdc_asset/assets/objects/painting/model/wduwwo/wduwwo_80.png"
+        }
+    ]
+}

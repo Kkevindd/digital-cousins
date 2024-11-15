@@ -1,0 +1,94 @@
+{
+    "topk_categories": {
+        "rug_0": [
+            "carpet",
+            "bath rug",
+            "yoga mat"
+        ],
+        "armchair_0": [
+            "armchair",
+            "straight chair",
+            "swivel chair"
+        ],
+        "armchair_1": [
+            "armchair",
+            "straight chair",
+            "swivel chair"
+        ],
+        "sofa_0": [
+            "sofa",
+            "armchair",
+            "bench"
+        ],
+        "cushion_0": [
+            "pillow",
+            "pillowcase",
+            "armchair"
+        ],
+        "side_table_0": [
+            "nightstand",
+            "coffee table",
+            "console table"
+        ],
+        "cushion_1": [
+            "pillow",
+            "pillowcase",
+            "armchair"
+        ],
+        "cushion_2": [
+            "pillow",
+            "pillowcase",
+            "armchair"
+        ],
+        "cushion_3": [
+            "pillow",
+            "pillowcase",
+            "armchair"
+        ],
+        "cushion_4": [
+            "pillow",
+            "pillowcase",
+            "armchair"
+        ],
+        "wall_art_0": [
+            "painting",
+            "wall clock",
+            "bulletin board"
+        ],
+        "wall_art_1": [
+            "painting",
+            "wall clock",
+            "bulletin board"
+        ],
+        "book_0": [
+            "hardback",
+            "paperback book",
+            "magazine"
+        ],
+        "book_1": [
+            "hardback",
+            "paperback book",
+            "magazine"
+        ],
+        "book_2": [
+            "hardback",
+            "paperback book",
+            "magazine"
+        ],
+        "plant_0": [
+            "nightstand",
+            "coffee table",
+            "console table"
+        ],
+        "side_table_1": [
+            "coffee table",
+            "garden coffee table",
+            "conference table"
+        ],
+        "plant_1": [
+            "garden plant",
+            "plant stem",
+            "pot plant"
+        ]
+    }
+}
